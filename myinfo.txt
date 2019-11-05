@@ -1,1 +1,3 @@
 "Name: Ahmad Raza" 
+"Email: ahmad.mughal@ucp.edu.pk"
+"Faculty: FoIT"
